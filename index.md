@@ -3,17 +3,18 @@ layout: cv
 title: Sudhanva S
 ---
 # Sudhanva S
-A good team player and an independent contributor with cross functional  experience for 3.5+ years in LiDARs, mapping and localization. Also, a key player with passion in robotics, curious to learn and highly ambitious. Experienced in developing architectures from L1 to L3, Subsystem Requirements Specification development, DFMEA review, propose enhancements and deriving mathematical models for SAE Level 4 Autonomous Driving.
+A good team player and an independent contributor with cross functional experience for 3.5+ years in LiDARs, mapping and localization. Also, a key player with passion in robotics, curious to learn and highly ambitious. Experienced in developing architectures from L1 to L3, Subsystem Requirements Specification development, DFMEA review, propose enhancements and deriving mathematical models for SAE Level 4 Autonomous Driving.
 
 <div id="webaddress">
 <a href="pioneer.sudhu@gmail.com">Email</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="linkedin.com/in/sudhanva-s">LinkedIn</a>
+| <a href="https://github.com/RobotBramhana">GitHub</a>
 </div>
+Phone : +91 9164222126
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
 
 ### Specialized in
 
@@ -87,5 +88,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
