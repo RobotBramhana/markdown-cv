@@ -15,7 +15,7 @@ Phone : +91 9164222126
 
 ## Experience
 
-`Feb 2021-Present`
+`Feb 2021 - Till Date`
 __Bosch, Bangalore__
 
 Robotics Engineer working with customer on developing robot that harvests raspberries.
@@ -24,7 +24,7 @@ Robotics Engineer working with customer on developing robot that harvests raspbe
 * Won appreciation for setting up standards and process orientation for development of ROS packages.
 * Imlemented state machine to define the behaviour of robot.
 
-`May 2018-Feb 2021`
+`May 2018 - Feb 2021`
 __Great Wall Motors, Bangalore__
 
 Mapping and localization engineer working with teams across the globe. During the tenure, became a member of cross-functional technical task force along with mapping and localization.
@@ -54,7 +54,7 @@ Mapping and localization engineer working with teams across the globe. During th
 * Outperformed with the ability of multitasking.
 * Strengthened skills through self-motivation and quick learning.
 
-`July 2016-April 2017`
+`July 2016 - April 2017`
 __Wipro, Bangalore__
 
 A part of development team to develop algorithms and integrate sensors to the propreitary platform.
