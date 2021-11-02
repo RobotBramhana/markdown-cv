@@ -14,23 +14,68 @@ Phone : +91 9164222126
 
 
 ## Experience
-Robotics Engineer working with customer on developing robot that harvests raspberries.
 
-### Bosch
+`Feb 2021-Present`
+__Bosch, Bangalore__
+
+Robotics Engineer working with customer on developing robot that harvests raspberries.
 
 * Won appreciation for closing backlogs soon after joining.
 * Won appreciation for setting up standards and process orientation for development of ROS packages.
 * Imlemented state machine to define the behaviour of robot.
 
-### Great Wall Motors
+`May 2018-Feb 2021`
+__Great Wall Motors, Bangalore__
 
-Mapping and localization engineer working with teams across the globe. Later, became a member of cross-functional technical task force along with mapping and localization.
+Mapping and localization engineer working with teams across the globe. During the tenure, became a member of cross-functional technical task force along with mapping and localization.
+
+* Won appreciation from senior technical management for identifying problems in motion planning.
+* Solved the problem of post processing for mapping the ODD thereby saving nearly 2 hours for each map.
+* Implemented mapping algorithm that can map the area during mission.
+* Improved mapping algorithm proactively.
+* Implemented a curb detection based LiDAR odometry algorithm.
+* Strengthened tf tree for the autonomous driving software.
+* Solved HDMap creation problem through Object Oriented Modelling and Design.
+* Improved the module through development of low-cost localization.
+* Won appreciation for proving the concept of visual odometry in urban areas.
+* Improved the system by integrating ROS drivers to the platform.
+* Won appreciation for identifying vulnerability in the system.
+* Strengthened the system by proactively upgrading components.
+* Won appreciation for contributing code to simulation i.e., outside the module.
+* Outperformed by taking a leap in proposing standard protocols to make system more robust.
+* Strengthened the team as a key player.
+* Won appreciation for having system-wide knowledge and know-hows.
+* Outperformed as an independent contributor.
+* Strengthened the system by contributing to the system and software architecture development.
+* Improved Localization DFMEA through reviews with FuSa.
+* Outperformed by proactively presenting the Sub System Requirement Specification document for * Mapping module.
+* Improved localization Sub System Requirement Specification document through reviews.
+* Strengthened the team’s skills and abilities through teaching the ADS, Robotics and other * platform dependent concepts.
+* Outperformed with the ability of multitasking.
+* Strengthened skills through self-motivation and quick learning.
+
+`July 2016-April 2017`
+__Wipro, Bangalore__
+
+A part of development team to develop algorithms and integrate sensors to the propreitary platform.
+
+* Solved the problem of integrating pedestrian detection.
+* Solved the problem of detecting obstacles using 3D LiDAR.
+* Solved kinematic problem by deriving a mathematical model for Ackermann and four-wheel steering kinematics.
+* Won appreciation from Vice-President, Mfg & Tech for presenting the kinematics of the vehicle to the team.
+* Improved and strengthened the development through simulation.
+* Won appreciation for training fresh recruits within the team.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2015 - August 2017`
+__The National Institute of Engineering, Mysore__
+### Master of Technology
+
+Masters in Industrial Automation and Robotics
+* Won prizes in intercollege robotics competitions.
+
 
 `June 1661 - now`
 __Trinity College, Cambridge__
