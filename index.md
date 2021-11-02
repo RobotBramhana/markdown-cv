@@ -14,16 +14,17 @@ Phone : +91 9164222126
 
 
 ## Experience
+Robotics Engineer working with customer on developing robot that harvests raspberries.
 
+### Bosch
 
-### Specialized in
+* Won appreciation for closing backlogs soon after joining.
+* Won appreciation for setting up standards and process orientation for development of ROS packages.
+* Imlemented state machine to define the behaviour of robot.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Great Wall Motors
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Mapping and localization engineer working with teams across the globe. Later, became a member of cross-functional technical task force along with mapping and localization.
 
 
 ## Education
