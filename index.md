@@ -66,8 +66,6 @@ A part of development team to develop algorithms and integrate sensors to the pr
 * Improved and strengthened the development through simulation.
 * Won appreciation for training fresh recruits within the team.
 
----
-
 ## Education
 
 `September 2015 - August 2017`
