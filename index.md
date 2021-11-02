@@ -3,7 +3,9 @@ layout: cv
 title: Sudhanva S
 ---
 # Sudhanva S
+```
 A good team player and an independent contributor with cross functional experience for 3.5+ years in LiDARs, mapping and localization. Also, a key player with passion in robotics, curious to learn and highly ambitious. Experienced in developing architectures from L1 to L3, Subsystem Requirements Specification development, DFMEA review, propose enhancements and deriving mathematical models for SAE Level 4 Autonomous Driving.
+```
 
 <div id="webaddress">
 <a href="pioneer.sudhu@gmail.com">Email</a>
@@ -20,9 +22,9 @@ __Bosch, Bangalore__
 
 Robotics Engineer working with customer on developing robot that harvests raspberries.
 
-- Won appreciation for closing backlogs soon after joining.
-- Won appreciation for setting up standards and process orientation for development of ROS packages.
-- Imlemented state machine to define the behaviour of robot.
+* Won appreciation for closing backlogs soon after joining.
+* Won appreciation for setting up standards and process orientation for development of ROS packages.
+* Imlemented state machine to define the behaviour of robot.
 
 `May 2018-Feb 2021`
 __Great Wall Motors, Bangalore__
