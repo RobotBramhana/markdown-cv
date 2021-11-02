@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sudhanva S
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sudhanva S
+A good team player and an independent contributor with cross functional  experience for 3.5+ years in LiDARs, mapping and localization. Also, a key player with passion in robotics, curious to learn and highly ambitious. Experienced in developing architectures from L1 to L3, Subsystem Requirements Specification development, DFMEA review, propose enhancements and deriving mathematical models for SAE Level 4 Autonomous Driving.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="pioneer.sudhu@gmail.com">Email</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
