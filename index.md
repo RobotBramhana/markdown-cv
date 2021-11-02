@@ -13,6 +13,8 @@ A good team player and an independent contributor with cross functional experien
 Phone : +91 9164222126
 
 
+---
+
 ## Experience
 
 `Feb 2021-Present`
@@ -90,6 +92,8 @@ __Bachelor of Engineering__
 
 * Won prizes in coding competitions.
 
+---
+
 ## Publications
 
 ### Journals
@@ -97,6 +101,8 @@ __Bachelor of Engineering__
 Implementation of drive kinematics for a self-driving car. [Click here](https://www.ijedr.org/papers/IJEDR1702226.pdf)
 
 Universal Remote Installation and Administration Control. [Click here](https://www.ijedr.org/papers/IJEDR1502075.pdf)
+
+---
 
 ## Technical Talks
 
