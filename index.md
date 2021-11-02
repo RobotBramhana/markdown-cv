@@ -69,11 +69,14 @@ A part of development team to develop algorithms and integrate sensors to the pr
 
 ## Education
 
-`September 2015 - August 2017`
+`September 2015 - 
+August 2017`
+
 __The National Institute of Engineering, Mysore__
+
 ### Master of Technology
 
-Masters in Industrial Automation and Robotics
+#### Industrial Automation and Robotics
 * Won prizes in intercollege robotics competitions.
 
 
