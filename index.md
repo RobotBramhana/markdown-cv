@@ -110,3 +110,9 @@ Applications of Mathematics in Driverless cars.
 
 Output Analysis using Simulation.
 [Click here](https://docs.google.com/presentation/d/1j_KbqT0loiK1vpW6alDC0EKV1_WBTgKx/edit?usp=sharing&ouid=115273562506614151545&rtpof=true&sd=true)
+
+## Hobbies
+
+* [Music](https://robotbramhana.github.io/arduino_music/)
+* [Adventure Sports](https://www.youtube.com/watch?v=3YHYF_SEMPs)
+* Basket Ball
