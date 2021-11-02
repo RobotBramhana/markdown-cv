@@ -66,6 +66,7 @@ A part of development team to develop algorithms and integrate sensors to the pr
 * Improved and strengthened the development through simulation.
 * Won appreciation for training fresh recruits within the team.
 
+---
 
 ## Education
 
@@ -79,11 +80,13 @@ __Master of Technology__
 
 * Won prizes in intercollege robotics competitions.
 
-
 `September 2011 - July 2015`
+
 __Bachelor of Engineering__
 
 *Computer Science and Engineering*
+
+### NIE Institute of Technology, Mysore
 
 * Won prizes in coding competitions.
 
@@ -91,14 +94,19 @@ __Bachelor of Engineering__
 
 ### Journals
 
-[Implementation of drive kinematics for a self-driving car](https://www.ijedr.org/papers/IJEDR1702226.pdf)
+Implementation of drive kinematics for a self-driving car. [Click here](https://www.ijedr.org/papers/IJEDR1702226.pdf)
 
-[Universal Remote Installation and Administration Control](https://www.ijedr.org/papers/IJEDR1502075.pdf)
+Universal Remote Installation and Administration Control. [Click here](https://www.ijedr.org/papers/IJEDR1502075.pdf)
 
 ## Technical Talks
 
 Bridging the gap between academia and industry
 
-[Localization of robots]()
-[Applications of Mathematics in Driverless cars]()
-[Output Analysis using Simulation]()
+Localization of robots.
+[Click here](https://docs.google.com/presentation/d/1V7Kufjrz9ZJzqeLq5gzJeN-h3PhdSX7V/edit?usp=sharing&ouid=115273562506614151545&rtpof=true&sd=true)
+
+Applications of Mathematics in Driverless cars.
+[Click here](https://docs.google.com/presentation/d/1x2eDSO00uj6eFwgk8m77L3ni-iFjqWzp/edit?usp=sharing&ouid=115273562506614151545&rtpof=true&sd=true)
+
+Output Analysis using Simulation.
+[Click here](https://docs.google.com/presentation/d/1j_KbqT0loiK1vpW6alDC0EKV1_WBTgKx/edit?usp=sharing&ouid=115273562506614151545&rtpof=true&sd=true)
