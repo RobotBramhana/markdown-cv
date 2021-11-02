@@ -13,8 +13,6 @@ A good team player and an independent contributor with cross functional experien
 Phone : +91 9164222126
 
 
----
-
 ## Experience
 
 `Feb 2021-Present`
