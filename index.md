@@ -3,7 +3,7 @@ layout: cv
 title: Sudhanva S
 ---
 # Sudhanva S
-A good team player and an independent contributor with cross functional experience for 3.5+ years in LiDARs, mapping and localization. Also, a key player with passion in robotics, curious to learn and highly ambitious. Experienced in developing architectures from L1 to L3, Subsystem Requirements Specification development, DFMEA review, propose enhancements and deriving mathematical models for SAE Level 4 Autonomous Driving.
+A good team player and an independent contributor with cross functional experience 5+ years in robotics and autonomous driving. Also, a key player, passionate, curious to learn and highly ambitious. Experienced in developing architectures from L1 to L3, Subsystem Requirements Specification development, DFMEA review, propose enhancements and deriving mathematical models for SAE Level 4 Autonomous Driving, state machine design and implementation.
 
 <div id="webaddress">
 <a href="pioneer.sudhu@gmail.com">Email</a>
