@@ -18,6 +18,12 @@ Phone : +91 9164222126
 `Feb 2021 - Till Date`
 __Bosch, Bangalore__
 
+Robotics Engineer working with counterparts on predevelopment activites for cleaning robots
+
+- 3D map generation for replication from real world to simulation. 
+- Implemented object tracker using EKF.
+- Brignup of photobot, a robot that collects data for machine learning.
+
 Robotics Engineer working with customer on developing robot that harvests raspberries.
 
 - Won appreciation for closing backlogs soon after joining.
